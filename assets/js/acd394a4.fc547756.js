@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpching=self.webpackChunkpching||[]).push([[916],{4262:function(e){e.exports=JSON.parse('{"permalink":"/pching/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
