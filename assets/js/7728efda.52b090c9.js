@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpching=self.webpackChunkpching||[]).push([[7413],{4593:function(e){e.exports=JSON.parse('{"permalink":"/pching/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
