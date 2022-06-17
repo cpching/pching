@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpching=self.webpackChunkpching||[]).push([[689],{2801:function(e){e.exports=JSON.parse('[{"label":"vi","permalink":"/pching/blog/tags/vi","count":1}]')}}]);
