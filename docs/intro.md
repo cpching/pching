@@ -7,6 +7,8 @@ sidebar_label: Introduction
 
 下列為我暫時預計會有的主題：
 - neovim
+- tmux
+- Github Pages + Docusaurus
 - Deep Learning
 - Theory of Computation
 - Frontend
