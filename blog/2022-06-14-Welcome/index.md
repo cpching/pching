@@ -1,4 +1,5 @@
 ---
+slug: Hello
 title: Hello World!
 ---
 
