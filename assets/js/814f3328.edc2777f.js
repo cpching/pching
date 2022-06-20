@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpching=self.webpackChunkpching||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u8108\u7d61","permalink":"/pching/blog/Background"},{"title":"\u7dad\u5ea6","permalink":"/pching/blog/Dimension"},{"title":"Hello World!","permalink":"/pching/blog/Hello"}]}')}}]);

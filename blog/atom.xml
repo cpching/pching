@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cpching.github.io/pching/pching/blog</id>
     <title>My Site Blog</title>
-    <updated>2022-06-16T00:00:00.000Z</updated>
+    <updated>2022-06-18T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cpching.github.io/pching/pching/blog"/>
     <subtitle>My Site Blog</subtitle>
     <icon>https://cpching.github.io/pching/pching/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[脈絡]]></title>
+        <id>Background</id>
+        <link href="https://cpching.github.io/pching/pching/blog/Background"/>
+        <updated>2022-06-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[大概跟降維是相輔相成的概念。我們抹除了那些背景，看著結果，再嘗試用結果去解釋過程。]]></summary>
+        <content type="html"><![CDATA[<h2></h2><p>大概跟降維是相輔相成的概念。我們抹除了那些背景，看著結果，再嘗試用結果去解釋過程。</p><p>我也會想是不是我太在乎那所謂「脈絡」，但我真的無法忽視。</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[維度]]></title>
         <id>Dimension</id>
@@ -17,8 +25,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello World!]]></title>
-        <id>/2022/06/14/Welcome</id>
-        <link href="https://cpching.github.io/pching/pching/blog/2022/06/14/Welcome"/>
+        <id>Hello</id>
+        <link href="https://cpching.github.io/pching/pching/blog/Hello"/>
         <updated>2022-06-14T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[該從哪裡開始呢？]]></summary>
         <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="該從哪裡開始呢">該從哪裡開始呢？<a class="hash-link" href="#該從哪裡開始呢" title="Direct link to heading">​</a></h2><p>一直想遠離 Instagram，從來沒有完全戒斷。但這次它要求了我的生日，並且用了如此冠冕堂皇的理由</p><p><img loading="lazy" src="/pching/assets/images/ig-e7ee96378dd39cd692feb20484702020.PNG" width="750" height="1334" class="img_ev3q"></p><p>（我還沒研究出更改圖片大小的方法，將就將就）</p><p>也一直想寫 blog，紀錄學習和生活。由於前端知識不足，遲遲沒有開始，剛好看到這個框架。說來慚愧，這是 facebook 所開源的專案，感覺有點奇怪。</p><p>最近在看《數位時代的人權思辨》，還沒看完。有時會想找人討論，但可惜沒有足夠的網頁能力能讓我建置可以留言的網頁。</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="關於自我">關於自我<a class="hash-link" href="#關於自我" title="Direct link to heading">​</a></h2><p>我還沒寫關於這個標題的頁面，先放在這了。</p>]]></content>
