@@ -48,6 +48,27 @@ const sidebars = {
             label: 'Theory of Computation',
             link: {type: 'doc', id: 'tutorial-formal/intro'},
             items: [
+                {
+                    type: 'category',
+                    label: 'Automata and Language',
+                    link: {type: 'doc', id: 'tutorial-formal/automata-and-languages/intro'},
+                    items: [
+                    ],
+                },
+                {
+                    type: 'category',
+                    label: 'Automata and Language',
+                    link: {type: 'doc', id: 'tutorial-formal/computability-theory/intro'},
+                    items: [
+                    ],
+                },
+                {
+                    type: 'category',
+                    label: 'Automata and Language',
+                    link: {type: 'doc', id: 'tutorial-formal/complexity-theory/intro'},
+                    items: [
+                    ],
+                },
             ],
         },
         {
