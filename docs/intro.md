@@ -11,5 +11,4 @@ sidebar_label: Introduction
 - Github Pages + Docusaurus
 - Deep Learning
 - Theory of Computation
-- Frontend
 

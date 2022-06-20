@@ -28,7 +28,35 @@ const sidebars = {
                 'tutorial-neovim/vi',
                 'tutorial-neovim/config',
             ],
-        }
+        },
+        {
+            type: 'category',
+            label: 'tmux',
+            link: {type: 'doc', id: 'tutorial-tmux/intro'},
+            items: [
+            ],
+        },
+        {
+            type: 'category',
+            label: 'Github Pages + Docusaurus',
+            link: {type: 'doc', id: 'tutorial-setting/intro'},
+            items: [
+            ],
+        },
+        {
+            type: 'category',
+            label: 'Theory of Computation',
+            link: {type: 'doc', id: 'tutorial-formal/intro'},
+            items: [
+            ],
+        },
+        {
+            type: 'category',
+            label: 'Deep Learning',
+            link: {type: 'doc', id: 'tutorial-dl/intro'},
+            items: [
+            ],
+        },
     ],
 
 };
