@@ -41,6 +41,9 @@ const sidebars = {
             label: 'Github Pages + Docusaurus',
             link: {type: 'doc', id: 'tutorial-setting/intro'},
             items: [
+                'tutorial-setting/github-pages',
+                'tutorial-setting/docusaurus',
+                'tutorial-setting/github-pages-add-docusaurus',
             ],
         },
         {
