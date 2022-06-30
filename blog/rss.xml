@@ -4,10 +4,20 @@
         <title>My Site Blog</title>
         <link>https://cpching.github.io/pching/pching/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Tue, 28 Jun 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[上漲]]></title>
+            <link>https://cpching.github.io/pching/pching/blog/Rising</link>
+            <guid>Rising</guid>
+            <pubDate>Thu, 30 Jun 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[我看見 LinkedIn 的郵件，]]></description>
+            <content:encoded><![CDATA[<p>我看見 LinkedIn 的郵件，</p><p>「您行情看漲！」</p><p>什麼時候我如商品被標上價？</p><p>我不想相信經濟學，
+卻不停接收到我已在人力市場上競爭與該爭取被競標的訊息，
+該如何離開呢？</p><p><img loading="lazy" src="/pching/assets/images/Rising-cf0f71041d73755c5f728e107dc64c19.PNG" width="750" height="1334" class="img_ev3q"></p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[關於夏天]]></title>
             <link>https://cpching.github.io/pching/pching/blog/About Summer</link>
