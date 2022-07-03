@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cpching.github.io/pching/pching/blog</id>
     <title>My Site Blog</title>
-    <updated>2022-06-30T00:00:00.000Z</updated>
+    <updated>2022-07-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cpching.github.io/pching/pching/blog"/>
     <subtitle>My Site Blog</subtitle>
     <icon>https://cpching.github.io/pching/pching/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[苦雨之地]]></title>
+        <id>The Land of Little Rain</id>
+        <link href="https://cpching.github.io/pching/pching/blog/The Land of Little Rain"/>
+        <updated>2022-07-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[當初買下這本書的衝動是源自它的封面。]]></summary>
+        <content type="html"><![CDATA[<p>當初買下這本書的衝動是源自它的封面。</p><p>它是一本小說。
+通常在看散文時只要內容不會太過虛幻，我會感覺那些文字是作者對我說的話，他會離我很近。
+讀小說的感覺不太一樣，它是一個被撐起的世界。
+讀這本小說的感覺又不太一樣，那似乎是一個近未來的現代、在我所熟悉的島國上。
+我不知道怎麼樣算是「讀懂」，但我總覺得自己還沒讀懂。</p><p>我感覺到一種氛圍，有些壓抑、有些悲傷，在每一章。
+似乎都有死亡，即便不一定是生命上的消亡。
+「曾經的擁抱如今成為灰燼」、「人只能活在自己的經驗裡」
+一句讓我痛，一句讓我思考。</p><p><img loading="lazy" src="/pching/assets/images/The-Land-of-Little-Rain-2f169333cc1aadeaa672d5e6f74655d5.png" width="4032" height="3024" class="img_ev3q"></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上漲]]></title>
         <id>Rising</id>
